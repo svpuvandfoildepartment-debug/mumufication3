@@ -1,7 +1,0 @@
-streamlit
-anthropic
-openai
-google-genai
-mistralai
-cohere
-groq
